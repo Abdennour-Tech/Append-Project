@@ -2,7 +2,7 @@
 
 Ce projet est une démonstration d'un site web professionnel moderne et responsive, conçu pour les entreprises de services.
 
-![Screenshot] https://github.com/Abdennour-Tech/Append-Project/blob/main/.screenshot.png?raw=true
+[Screenshot](https://raw.githubusercontent.com/Abdennour-Tech/Append-Project/main/.screenshot.png)
 
 ## ✨ Caractéristiques (Features)
 * *Design Professionnel :* Interface épurée réalisée avec Bootstrap 5.
