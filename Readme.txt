@@ -1,6 +1,14 @@
-Thanks for downloading this template!
+# Append - Modern Business Website 🚀
 
-Template Name: Append
-Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Ce projet est une démonstration d'un site web professionnel moderne et responsive, conçu pour les entreprises de services.
+
+## ✨ Caractéristiques (Features)
+* *Design Professionnel :* Interface épurée réalisée avec Bootstrap 5.
+* *Totalement Responsive :* Adapté parfaitement aux mobiles et tablettes.
+* *Animations Fluides :* Utilisation de CSS3 et JavaScript pour une meilleure expérience utilisateur.
+
+## 🔗 Démonstration en direct (Live Demo)
+👉 [*Cliquez ici pour voir le site*](https://abdennour-tech.github.io/Append-Project/)
+
+---
+👨‍💻 Développé par *Badereddine Abdennour* - Full-Stack Web Developer
